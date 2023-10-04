@@ -6,6 +6,7 @@ This tool is used to determine various recipe combinations used to complete the 
 Up to date with Version 1.06
 Task Tier Supported: 10
 Last Updated: Dec 29, 2020 10:52:00 CST
+UPDATING IN PROGRESS, NOT COMPLETE!
 ```
 
 ## Special Thanks
